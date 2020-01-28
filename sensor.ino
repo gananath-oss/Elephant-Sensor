@@ -1,7 +1,7 @@
 #include<Servo.h>
 const int TriggerPin = 10;
 const int EchoPin = 11;
-
+//my name is ganaya.
 
 const int startingAngle = 0;
 const int minimumAngle = 0;
